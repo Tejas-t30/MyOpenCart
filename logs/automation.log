@@ -25,3 +25,30 @@
 2025-04-06 18:28:08 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
 2025-04-06 18:28:08 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
 2025-04-06 18:28:11 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:52:53 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:14 - ***Starting TC002_UserRegistrationUsingExistingCredentialsTest***
+2025-04-06 18:52:54 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:19 - Clicked on Registration Link
+2025-04-06 18:52:56 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:30 - Filled the Account Registration form
+2025-04-06 18:52:56 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:33 - Test Case Passed and  warning regarding the email is received
+2025-04-06 18:52:56 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:41 - Finished the TC002_UserRegistrationUsingExistingCredentialsTest
+2025-04-06 18:53:00 INFO  TC001_UserRegistrationTest:14 - ***String TC001_UserRegistrationTest***
+2025-04-06 18:53:01 INFO  TC001_UserRegistrationTest:20 - Clicked on Register Link...
+2025-04-06 18:53:03 INFO  TC001_UserRegistrationTest:32 - Filled the Register form...
+2025-04-06 18:53:03 INFO  TC001_UserRegistrationTest:35 - Test Case Passed and Account is registered
+2025-04-06 18:53:03 INFO  TC001_UserRegistrationTest:45 - Finished the TestCase TC001_UserRegistrationTests
+2025-04-06 18:53:07 INFO  TC003_UserRegistrationPasswordErrorMsgTest:14 - ***Starting TC003_UserRegistrationPasswordErrorMsgTest***
+2025-04-06 18:53:08 INFO  TC003_UserRegistrationPasswordErrorMsgTest:19 - Clicked on the Register link
+2025-04-06 18:53:09 INFO  TC003_UserRegistrationPasswordErrorMsgTest:30 - Filled the Registration page
+2025-04-06 18:53:09 INFO  TC003_UserRegistrationPasswordErrorMsgTest:33 - Test Case Passed and error message regarding the password is received
+2025-04-06 18:53:09 INFO  TC003_UserRegistrationPasswordErrorMsgTest:42 - Finished the TC003_UserRegistrationPasswordErrorMsgTest
+2025-04-06 18:53:13 INFO  TC004_UserLoginTest:15 - ***Starting TC004_UserLoginTest***
+2025-04-06 18:53:15 INFO  TC004_UserLoginTest:36 - Finished test TC004_UserLoginTest
+2025-04-06 18:53:22 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:53:34 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:53:34 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:53:37 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:53:37 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:53:40 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:53:40 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:53:51 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:53:51 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:53:54 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
