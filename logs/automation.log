@@ -1,0 +1,27 @@
+2025-04-06 18:27:12 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:14 - ***Starting TC002_UserRegistrationUsingExistingCredentialsTest***
+2025-04-06 18:27:13 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:19 - Clicked on Registration Link
+2025-04-06 18:27:14 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:30 - Filled the Account Registration form
+2025-04-06 18:27:14 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:33 - Test Case Passed and  warning regarding the email is received
+2025-04-06 18:27:14 INFO  TC002_UserRegistrationUsingExistingCredentialsTest:41 - Finished the TC002_UserRegistrationUsingExistingCredentialsTest
+2025-04-06 18:27:18 INFO  TC001_UserRegistrationTest:14 - ***String TC001_UserRegistrationTest***
+2025-04-06 18:27:19 INFO  TC001_UserRegistrationTest:20 - Clicked on Register Link...
+2025-04-06 18:27:20 INFO  TC001_UserRegistrationTest:32 - Filled the Register form...
+2025-04-06 18:27:21 INFO  TC001_UserRegistrationTest:35 - Test Case Passed and Account is registered
+2025-04-06 18:27:21 INFO  TC001_UserRegistrationTest:45 - Finished the TestCase TC001_UserRegistrationTests
+2025-04-06 18:27:25 INFO  TC003_UserRegistrationPasswordErrorMsgTest:14 - ***Starting TC003_UserRegistrationPasswordErrorMsgTest***
+2025-04-06 18:27:26 INFO  TC003_UserRegistrationPasswordErrorMsgTest:19 - Clicked on the Register link
+2025-04-06 18:27:28 INFO  TC003_UserRegistrationPasswordErrorMsgTest:30 - Filled the Registration page
+2025-04-06 18:27:28 INFO  TC003_UserRegistrationPasswordErrorMsgTest:33 - Test Case Passed and error message regarding the password is received
+2025-04-06 18:27:28 INFO  TC003_UserRegistrationPasswordErrorMsgTest:42 - Finished the TC003_UserRegistrationPasswordErrorMsgTest
+2025-04-06 18:27:31 INFO  TC004_UserLoginTest:15 - ***Starting TC004_UserLoginTest***
+2025-04-06 18:27:33 INFO  TC004_UserLoginTest:36 - Finished test TC004_UserLoginTest
+2025-04-06 18:27:38 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:27:50 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:27:50 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:27:53 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:27:53 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:27:56 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:27:56 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:28:08 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
+2025-04-06 18:28:08 INFO  TC005_UserLoginUsingDDT:18 - ***Strating TC_005_UserLoginUsingDDT***
+2025-04-06 18:28:11 INFO  TC005_UserLoginUsingDDT:66 - Finished the test TC_005_UserLoginUsingDDT
